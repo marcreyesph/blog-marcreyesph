@@ -24,7 +24,7 @@ title:                'Marc Reyes'
 tagline:              'Blog'
 description:          'Marc Reyes is a data-driven developer who is into studying AI and Machine Learning'
 keywords:             'Marc Reyes, Marc, Reyes, Marc X, X, MX, M+X, Web Design, Website, Web Development, Web Dev, Freelancer, Speaking, Google, Google Developers, Code, Programming, Machine Learning'
-url:                  https://www.marcreyes.ph
+url:                  https://blog.marcreyes.ph
 baseurl:              
 assets:               /assets
 images:               /images/
@@ -36,7 +36,7 @@ author:
   name:               Marc Reyes
   bio:                Marc Reyes is a data-driven developer who is into studying AI and Machine Learning
   image:              author
-  url:                https://blog.marcreyes.ph
+  url:                https://www.marcreyes.ph
   email:              hello@marcreyes.ph
   twitter:            marcreyesph
 
