@@ -13,7 +13,7 @@ gems:
 
 # Settings
 exclude:              [CNAME, README.md, NOTES.md, LICENSE.md, .gitignore, package.json, bower.json, _js, _scss, _images, gulpfile.js, gulpconfig.js, node_modules, bower_components, gemfile, Gemfile.lock]
-permalink:            /blog/:title/
+permalink:            /post/:title/
 compress_html:
   clippings: all
   comments: all
@@ -21,7 +21,7 @@ compress_html:
 
 # Site meta
 title:                'Marc Reyes'
-tagline:              'Coding is fun'
+tagline:              'Blog'
 description:          'Marc Reyes is a data-driven developer who is into studying AI and Machine Learning'
 keywords:             'Marc Reyes, Marc, Reyes, Marc X, X, MX, M+X, Web Design, Website, Web Development, Web Dev, Freelancer, Speaking, Google, Google Developers, Code, Programming, Machine Learning'
 url:                  https://www.marcreyes.ph
