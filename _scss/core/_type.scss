@@ -2,13 +2,48 @@
 
 // Define all global font styles here.
 
+@font-face {
+    font-family: "Display-Ultralight";
+    src: url("/assets/fonts/SF-UI-Display-Ultralight.woff");
+}
+
+@font-face {
+    font-family: "Display-Thin";
+    src: url("/assets/fonts/SF-UI-Display-Thin.woff");
+}
+
+@font-face {
+    font-family: "Display-Light";
+    src: url("/assets/fonts/SF-UI-Display-Light.woff");
+}
+
+@font-face {
+    font-family: "Display-Regular";
+    src: url("/assets/fonts/SF-UI-Display-Regular.woff");
+}
+
+@font-face {
+    font-family: "Display-Medium";
+    src: url("/assets/fonts/SF-UI-Display-Medium.woff");
+}
+
+@font-face {
+    font-family: "Display-Bold";
+    src: url("/assets/fonts/SF-UI-Display-Bold.woff");
+}
+
+@font-face {
+    font-family: "Display-Black";
+    src: url("/assets/fonts/SF-UI-Display-Black.woff");
+}
+
 // 1. Variables
 // 2. font()
 // 3. Global styles
 
 // 1. Variables //
 
-$sans: "Overpass", Arial, sans-serif;
+$sans: "Display-Bold", Arial, sans-serif;
 $sans-normal: 400;
 $sans-semibold: 600;
 $sans-bold: 800;
