@@ -46,7 +46,7 @@ var Tabs = (function() {
       }
     }
 
-  }
+  };
 })();
 
 var Preview = (function() {
@@ -90,7 +90,7 @@ var Preview = (function() {
         });
       }
     }
-  }
+  };
 })();
 
 var wow = new WOW({
