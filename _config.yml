@@ -1,5 +1,5 @@
 # Site settings
-email: 
+email: hello@marcreyes.ph
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -20,7 +20,7 @@ social:
   github: https://github.com/marcreyesph
   medium: https://becominghuman.ai/@marcreyesph
   twitter: https://twitter.com/marcreyesph
-  facebook: https://facebook.com/marcreyesph
+  facebook: https://facebook.com/marcxplanet
   google-plus: https://plus.google.com/+marcreyesph
 
 
