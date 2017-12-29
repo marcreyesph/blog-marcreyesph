@@ -10,7 +10,7 @@ title: Blog
 description: A Front-End Web Developer for three years, Marc is currently in an on-going mentorship of becoming a data-driven developer studying AI and Machine Learning.
 url: "https://blog.marcreyes.ph"
 twitter_username: marcreyesph
-default_img: /assets/images/og-image.png
+default_img: https://blog.marcreyes.ph/assets/images/og-image.png
 
 # Profile settings
 name: Marc Anthony Reyes
