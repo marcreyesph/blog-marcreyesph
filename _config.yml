@@ -6,23 +6,28 @@ paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
-title: Trophy
-description: 
-url: ""
-twitter_username: 
-default_img: 
+title: Blog
+description: A Front-End Web Developer for three years, Marc is currently in an on-going mentorship of becoming a data-driven developer studying AI and Machine Learning.
+url: "https://blog.marcreyes.ph"
+twitter_username: marcreyesph
+default_img: /assets/images/og-image.png
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: Marc Anthony Reyes
+profile_img: /assets/images/profile.png
+profile: Marc is a Front-End Web Developer who is currently in an on-going mentorship of becoming a data-driven developer studying AI and Machine Learning. He already has talked in three developer conferences and seminars and believes in democratizing AI and sharing ideas to other developers.
 social:
-  github: 
+  github: https://github.com/marcreyesph
+  medium: https://becominghuman.ai/@marcreyesph
+  twitter: https://twitter.com/marcreyesph
+  facebook: https://facebook.com/marcreyesph
+  google-plus: https://plus.google.com/+marcreyesph
+
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
 markdown: kramdown
-permalink: /:year/:month/:day/:title/
+permalink: /blog/:title/
 
 # Sass
 sass:

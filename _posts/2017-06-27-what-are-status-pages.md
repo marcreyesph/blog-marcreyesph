@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Introducing Marc Reyes's Status Page"
+title: "What are Status Pages?"
 categories:
   - Tools
   - Web-Development
