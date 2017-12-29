@@ -1,12 +1,12 @@
 ---
 layout: post
-lang: en
-ref: jollibee-fep
-title: Jollibee FEP Youth Challenge Bootcamp
-image: /assets/images/posts/jollibee-fep.jpg
-time: 2
-medium: jollibee-fep-youth-challenge-bootcamp-bd2dbec2e509
+title: "Jollibee FEP Youth Challenge Bootcamp"
+categories:
+  - Machine-Learning
+  - Projects
+  - Social-Innovation
 description: Our team got selected to be funded a project in the recently launched Jollibee Farmer Entrepreneurship Program (FEP) Youth Challenge. Read my blog to learn more about how we started, planned, and pitched for our project in the recently held Jollibee FEP Youth Challenge Bootcamp.
+image: /assets/images/posts/jollibee-fep.jpg
 ---
 
 > "Hayaan nyo, gagawin namin ang lahat ng makakaya namin para may nakakain tayo."

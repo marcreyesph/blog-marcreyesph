@@ -1,12 +1,12 @@
 ---
 layout: post
-lang: en
-ref: ml-adventure
-title: My Machine Learning Adventure
-image: /assets/images/posts/ml-adventure.jpg
-time: 3
-medium: my-machine-learning-adventure-3a4c7b6bd5f6
+title: "My Machine Learning Adventure"
+categories: 
+  - Machine-Learning
+  - Deep-Learning
+  - Google-Developers
 description: Machine Learning may be complicated as it is, but it's never impossible to develop an application of your own. As a total beginner in Machine Learning, I'm sharing my experience in studying it and hopefully build Machine Learning-powered applications. Read the blog to learn more.
+image: /assets/images/posts/ml-adventure.jpg
 ---
 
 > What is Machine Learning?

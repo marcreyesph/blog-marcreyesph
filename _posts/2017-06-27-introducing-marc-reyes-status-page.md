@@ -1,11 +1,11 @@
 ---
 layout: post
-lang: en
-ref: status-page
-title: Introducing Marc Reyes's Status Page
-image: /assets/images/posts/status-page.jpg
-medium: 
+title: "Introducing Marc Reyes's Status Page"
+categories:
+  - Tools
+  - Web-Development
 description: Status pages are an effective way to inform to your website users whether a specific website system is operational or not. Find out how you can use a status page to inform timely and informative updates to your users. Start building one with an open-source status page generator. Read my blog to learn more.
+image: /assets/images/posts/status-page.jpg
 ---
 
 > Almost all websites all over the web ecosystem have their own status pages. Websites like [GitHub](https://github.com) have their own status pages. So what is exactly a status page? 

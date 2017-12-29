@@ -1,18 +1,16 @@
----
-layout: compress
----
-
 <!DOCTYPE html>
-<html lang="en">
-	{% include core/head.html %}
+<html>
 
-	<body class="{% if page.font %}{{ page.font }}{% else %}{{ layout.font }}{% endif %}">
+  {% include head.html %}
 
-		<div class="body-wrapper">
-			{{ content }}
-		</div>
+  <body>
 
-		{% include core/scripts.html %}
-	</body>
+    <main>
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+
+  </body>
 
 </html>
