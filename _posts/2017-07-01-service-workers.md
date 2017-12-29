@@ -1,11 +1,12 @@
 ---
 layout: post
-lang: en
-ref: service-workers
-title: Service Workers
-image: /assets/images/posts/service-workers.jpg
-medium: 
+title: "Service Workers"
+categories:
+  - Tools
+  - Web-Development
+  - Google-Developers
 description: Site users are often faced with a problem of websites taking too much time to load in high latency and low bandwidth internet. With a Service Worker, you can now cache your whole website and load it even without internet. Web applications like Progressive Web Apps (PWA) utilize this technology to make a web app's contents work offline. Read my blog on how to build one.
+image: /assets/images/posts/service-workers.jpg
 ---
 
 > What is a service worker?

@@ -1,45 +1,56 @@
 ---
 layout: default
-lang: en
-ref: index
-image: /assets/images/1200x630-og-image.png
-exclude: true
 ---
+<section class="previews">
+  <div>
+    {% for post in paginator.posts %}
+      <figure class="absolute-bg preview__img" style="background-image: url('{{ post.image }}');"></figure>
+    {% endfor %}
+    <div class="previews__container">
+      <span>Welcome to my</span>
+      <h1>{{ site.title }}</h1>
+    </div>
+  </div>
 
-{% include core/metabar.html %}
+  <div>
+    <header>
+      <ul class="tabs">
+        <li class="tabs__item">Posts</li>
+        <li class="tabs__item">Categories</li>
+      </ul>
+    </header>
 
-<article class="content">
+    <div class="tab">
+      <ul itemscope itemtype="http://schema.org/Blog">
+        {% for post in paginator.posts %}
+          <li class="preview" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <a class="preview__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
+              <span class="preview__date" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</span>
+              <h2 class="preview__header" itemprop="name">{{ post.title }}</h2>
+              <p class="preview__excerpt" itemprop="description">{{ post.content | strip_html | truncatewords: 30 }}</p>
+              <span class="preview__more">Read More</span>
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
 
-  <header class="hero">
-    <h1 class="hero-title">{{ site.description }}</h1>
-    {% include core/share.html %}
-    {% if page.image %}
-      <div class="hero-image" style="background-image: url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}.jpg'); background-image: -webkit-image-set( url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}.jpg') 1x, url('{{ site.baseurl }}{{ site.assets }}{{ site.images }}posts/{{ page.ref }}-large.jpg') 2x )"></div>
-    {% endif %}
-  </header>
+      {% if paginator.total_pages > 1 %}
+        <div class="pagination">
+          {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Previous</a>
+          {% endif %}
 
-  <section id="about" class="section">
-    <h2 class="section-title">About</h2>
-    <article>
-      <h3 class="section-header">Coding is fun</h3>
-      <p class="section-body">Hello, there! I'm Marc Reyes. I'm currently a Computer Science student in Cagayan de Oro. I'm also a front-end web developer and I currently am into Machine Learning mentorship.</p>
-      <a class="section-link" href="/about">More about Marc</a>
-    </article>
-  </section>
+          {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Next</a>
+          {% endif %}
+        </div>
+      {% endif %}
 
-  <section id="posts" class="section">
-    <h2 class="section-title">Posts</h2>
-    <article class="section-writing">
-      {% assign posts = site.posts | sort: 'order' | where:"lang", page.lang | limit: 3 %}
-      {% for page in posts %}
-      <h3 class="section-header"><a href="{{ site.baseurl }}{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h3>
-        {% include core/date.html %}
-        <p class="section-body">{{ page.excerpt | strip_html | truncatewords: 32 }}</p>
-      {% endfor %}
-      <a class="section-link" href="/blog">Read more posts</a>
-    </article>
-  </section>
+      {% include archive-link.html %}
+    </div>
 
-</article>
+    {% include categories-tab.html %}
 
-{% include core/footer.html %}
+  </div>
+
+</section>
