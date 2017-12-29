@@ -10,18 +10,15 @@ Site is proudly made with [Jekyll](https://jekyllrb.com/), hosted on [GitHub](ht
 
 ### Setup
 
-If you don't have `npm` and `gulp` installed in your system then you need to install them first before running. 
-
-**Install npm**: `node` comes with `npm` installed so you should have a version of `npm`. However, `npm` gets updated more frequently than `node` does, so you'll want to make sure it's the latest version. 
-
-**Install gulp**:  ```$ npm install -g gulp```
+**Install Jekyll**: To install `Jekyll`, follow the directions stated [here](https://jekyllrb.com/docs/installation/).
 
 ### Deployment
 ```bash
 $ git clone --recursive git@github.com:/marcreyesph/marcreyesph.github.io
 $ cd marcreyesph.github.io
-$ npm install
-$ gulp default
+$ bundle install
+$ jekyll build
+$ jekyll serve
 ```
 
 ### Social media
