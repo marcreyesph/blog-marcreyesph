@@ -4,7 +4,7 @@ title: "A Walkthrough on the Talakag CSLP Code"
 categories:
   - Projects
   - Web-Development
-description: 
+description: The Registry System for Basic Sectors in Agriculture – Philippine Crop Insurance Corporation (RSBSA-PCIC) Database and Bulk SMS for Talakag Farmers is a collection of database of the farmers who have opted to apply for an application for insurance. Learn more about this project by reading my blog.
 image: /assets/images/posts/talakag-db-code.jpg
 ---
 
