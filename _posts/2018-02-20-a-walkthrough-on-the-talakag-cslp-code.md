@@ -90,6 +90,6 @@ The developers would like to acknowledge the following for making this project p
 
 This project is made in fulfillment of the final requirements in CS 33.1 Software Engineering, CS 32.1 Web Programming, and CS 27 Network Principles AY 2017-2018 of Xavier University Collaborative Service Learning Program (XU-CSLP).
 
-The project is currently on its beta release and we would want to listen on what you think about our project. Feel free to e-mail me at **[hello@marcreyes.ph](mailto:hello@marcreyes.ph)** to inquire more about this project and to also help our farmers more. 
+The project is currently on its beta release and we would want to listen on what you think about our project. Give it a try by visiting **[http://cslp.xu.edu.ph/talakag_pcic](http://cslp.xu.edu.ph/talakag_pcic)**. Feel free to e-mail me at **[hello@marcreyes.ph](mailto:hello@marcreyes.ph)** for the test log in details and to also inquire more about this project to help our farmers more. 
 
 
