@@ -3,6 +3,7 @@ layout: post
 title: "Jollibee FEP Youth Challenge Bootcamp"
 categories:
   - Machine-Learning
+  - Python
   - Projects
   - Social-Innovation
 description: Our team got selected to be funded a project in the recently launched Jollibee Farmer Entrepreneurship Program (FEP) Youth Challenge. Read my blog to learn more about how we started, planned, and pitched for our project in the recently held Jollibee FEP Youth Challenge Bootcamp.

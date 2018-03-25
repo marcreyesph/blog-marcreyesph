@@ -3,10 +3,11 @@ layout: post
 title: "DevFest 2017: A Developer Story"
 categories:
   - Talks
+  - Tech-Events
+  - Python
   - Machine-Learning
   - Deep-Learning
   - Google-Developers
-  - Talks
 description: Studying Machine Learning is never easy especially if you don't have the patience, willingness, and openness to learning. Learn more about how I started studying Machine Learning to having my first keynote at GDGCDO DevFest 2017.
 image: /assets/images/posts/gdgcdo-devfest-2017.jpg
 ---
