@@ -14,8 +14,8 @@ Site is proudly made with [Jekyll](https://jekyllrb.com/), hosted on [GitHub](ht
 
 ### Deployment
 ```bash
-$ git clone --recursive git@github.com:/marcreyesph/marcreyesph.github.io
-$ cd marcreyesph.github.io
+$ git clone --recursive git@github.com:/marcreyesph/blog-marcreyesph
+$ cd blog-marcreyesph
 $ bundle install
 $ jekyll build
 $ jekyll serve
