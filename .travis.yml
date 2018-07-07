@@ -17,10 +17,10 @@ matrix:
 
     include:
         - rvm: '2.3.1'
-          gemfile: gemfile
+          gemfile: Gemfile
           env: SNIFF=1
         - rvm: 'ruby-head'
-          gemfile: gemfile
+          gemfile: Gemfile
           env: SNIFF=2
 
     allow_failures:

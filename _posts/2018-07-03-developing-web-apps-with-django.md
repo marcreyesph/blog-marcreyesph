@@ -25,7 +25,7 @@ That big day came and I was very excited to be at the venue. There I met differe
 
 ![Django Girls CDO Workshop](/assets/images/posts/body/django-girls3.jpg "Django Girls CDO Workshop")
 
-The task that we did was to create a simple blog app with functionalities such as being able to view, add, delete, and modify blog posts. Provided was an online tutorial made by Django Girls and I must say it was really easy to understand because of its orgzanization and detail. Coding in Python was never a problem but working with a Model-View-Controller (MVC) framework for the first time was challenging but worth it. I finished the task after five hours and I also was able to teach my teammates a little about my progress. Here's what I did at the workshop: 
+The task that we did was to create a simple blog app with functionalities such as being able to view, add, delete, and modify blog posts. Provided was an [online tutorial](https://tutorial.djangogirls.org/en/django_start_project/) made by Django Girls and I must say it was really easy to understand because of its orgzanization and detail. Coding in Python was never a problem but working with a Model-View-Controller (MVC) framework for the first time was challenging but worth it. I finished the task after five hours and I also was able to teach my teammates a little about my progress. Here's what I did at the workshop: 
 
 Homepage preview:
 ![Website preview](/assets/images/posts/body/preview.png "Website preview")
@@ -60,4 +60,4 @@ I hope that this is not the only Django Girls workshop that I will be able to jo
 
 ---
 
-Photos other than the screenshots courtesy of **[Django Girls CDO](https://www.facebook.com/djangogirlscdo/)**. The blog site I created can be forked at **[https://github.com/marcreyesph/djangocdo-workshop/](http://github.com/marcreyesph/djangocdo-workshop/)**. The leaf classification web app can also be forked at **[https://github.com/tanumbotics/umabot-web](https://github.com/tanumbotics/umabot-web/)**. **[Django](https://djangoproject.com/)** and **[TensorFlow](https://www.tensorflow.org/)** are free and open source Python libraries for download. 
+Photos other than the screenshots courtesy of **[Django Girls CDO](https://www.facebook.com/djangogirlscdo/)**. The blog site I created can be forked at **[https://github.com/marcreyesph/djangocdo-workshop/](https://github.com/marcreyesph/djangocdo-workshop/)**. The leaf classification web app can also be forked at **[https://github.com/tanumbotics/umabot-web](https://github.com/tanumbotics/umabot-web/)**. **[Django](https://djangoproject.com/)** and **[TensorFlow](https://www.tensorflow.org/)** are free and open source Python libraries for download. 
