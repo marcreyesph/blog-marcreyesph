@@ -16,7 +16,7 @@ matrix:
     fast_finish: true
 
     include:
-        - rvm: '2.1.2'
+        - rvm: '2.3.1'
           gemfile: Gemfile
           env: SNIFF=1
         - rvm: 'ruby-head'
