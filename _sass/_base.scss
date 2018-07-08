@@ -1,9 +1,27 @@
 /**
  * Base Variables
  */
-$font-header: 'Display-Black', Helvetica, sans-serif;
-$font-body: 'Display-Bold', Helvetica, sans-serif;
-$font-post: 'Display-Medium', Helvetica, sans-serif;
+ html {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+  font-weight: 400;
+}
+
+/**
+ * Firefox specific rule
+ */
+
+@-moz-document url-prefix() {
+  body {
+    font-weight: lighter !important;
+  }
+}
+
+$font-header: 'Circular-Pro-Black', Helvetica, sans-serif;
+$font-body: 'Circular-Pro-Medium', Helvetica, sans-serif;
+$font-post: 'Circular-Pro-Book', Helvetica, sans-serif;
+$font-mono: 'Replica-Mono', monospace;
 
 $color-alpha: #9f8f68;
 $color-alpha--light: #f5f3ef;
@@ -59,9 +77,13 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
-
   font-family: $font-header;
   line-height: 1.1;
+  text-rendering: geometricPrecision !important;
+  -moz-font-smoothing: antialiased !important;
+  -moz-osx-font-smoothing: grayscale !important;
+  -webkit-font-smoothing: antialiased !important;
+  font-smoothing: antialiased !important;
 }
 
 h1 {
