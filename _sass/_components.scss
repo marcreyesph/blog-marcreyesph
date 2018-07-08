@@ -5,6 +5,7 @@
 .tabs {
   @extend %letter-spacing;
 
+  font-family: $font-mono;
   display: flex;
   justify-content: space-around;
   padding: 1em;
@@ -70,7 +71,7 @@
     span {
       @extend %letter-spacing;
 
-      font-family: $font-body;
+      font-family: $font-mono;
     }
   }
 }
@@ -111,7 +112,7 @@
   }
 
   &__date {
-    font-family: $font-header;
+    font-family: $font-mono;
     color: $color-black;
   }
 
@@ -122,6 +123,7 @@
   }
 
   &__excerpt {
+    font-family: $font-mono;
     color: $color-black;
   }
 
@@ -261,6 +263,7 @@
   }
 
   &__archive {
+    font-family: $font-mono;
     @include border-slide();
 
     @extend %letter-spacing;
@@ -313,7 +316,12 @@
     height: 100%;
     width: 90%;
     margin: 0 auto;
+
+    span {
+      font-family: $font-mono;
+    }
   }
+  
 
   h1 {
 
@@ -337,7 +345,7 @@
   display: flex;
   align-items: center;
 
-  font-family: $font-body;
+  font-family: $font-mono;
 
   @media (min-width: $mq-sm) {
     left: 2em;
@@ -432,6 +440,7 @@
   }
 
   p:first-child {
+    font-family: $font-mono;
     font-size: 1.25em;
   }
 
@@ -508,6 +517,10 @@
 
     background-color: $color-white;
 
+    p {
+      font-family: $font-mono;
+    }
+
     @media (min-width: $mq-md) {
       flex-basis: 55%;
       max-width: 55%;
@@ -568,7 +581,7 @@
     span {
       @extend %letter-spacing;
 
-      font-family: $font-body;
+      font-family: $font-mono;
     }
   }
 }
