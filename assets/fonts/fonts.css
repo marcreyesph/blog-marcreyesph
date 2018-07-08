@@ -5,6 +5,10 @@
     font-weight: normal;
     font-style: normal;
     text-rendering: geometricPrecision;
+    -moz-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
 }
 @font-face {
     font-family: "Circular-Pro-Book-Italic";
@@ -13,6 +17,10 @@
     font-weight: normal;
     font-style: normal;
     text-rendering: geometricPrecision;
+    -moz-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
 }
 @font-face {
     font-family: "Circular-Pro-Medium";
@@ -21,6 +29,10 @@
     font-weight: normal;
     font-style: normal;
     text-rendering: geometricPrecision;
+    -moz-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
 }
 @font-face {
     font-family: "Circular-Pro-Bold";
@@ -29,6 +41,10 @@
     font-weight: normal;
     font-style: normal;
     text-rendering: geometricPrecision;
+    -moz-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
 }
 @font-face {
     font-family: "Circular-Pro-Black";
@@ -37,6 +53,10 @@
     font-weight: normal;
     font-style: normal;
     text-rendering: geometricPrecision;
+    -moz-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
 }
 @font-face {
     font-family: "Replica-Mono";
@@ -45,4 +65,8 @@
     font-weight: normal;
     font-style: normal;
     text-rendering: geometricPrecision;
+    -moz-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    font-smoothing: antialiased;
 }
