@@ -14,7 +14,7 @@ default_img: https://blog.marcreyes.ph/assets/images/og-image.png
 
 # Profile settings
 name: Marc Anthony Reyes
-profile_img: /assets/images/profile.png
+profile_img: /assets/images/about-small-colored.jpg
 profile: Marc is a Front-End Web Developer who is currently in an on-going mentorship of becoming a data-driven developer studying AI and Machine Learning. He already has talked in three developer conferences and seminars and believes in democratizing AI and sharing ideas to other developers.
 social:
   github: https://github.com/marcreyesph
