@@ -50,7 +50,7 @@
     font-family: "Circular-Pro-Black";
     src: url("lineto-circular-black.eot");
     src: url("lineto-circular-black.eot?#iefix") format("embedded-opentype"), url("lineto-circular-black.woff") format("woff"), url("lineto-circular-black.ttf") format("truetype"), url("lineto-circular-black.svg#lineto-circular-pro-black") format("svg");
-    font-weight: normal;
+    font-weight: lighter;
     font-style: normal;
     text-rendering: geometricPrecision !important;
     -moz-font-smoothing: antialiased !important;
