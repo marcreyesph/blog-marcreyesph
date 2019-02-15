@@ -6,7 +6,7 @@ categories:
   - Web-Development
   - Tech-Events
   - Django
-description: Welcome to my blog! I always have believed that ideas are to be passed on for others to learn and encourage healthy exchange of ideas. I have created this blog to share my adventures and discoveries in Web Development, Machine Learning, and a lot more. I'm very excited to share what I've learned&mdash;read my blog to find out.
+description: It's my first time coaching an all-women workshop. Read this blog as I share my experience on my first time coaching as well as braving the challenge of promoting and fostering \#WomenInTech initiatives in Cagayan de Oro.
 image: /assets/images/posts/django-girls-3.jpg
 ---
 
