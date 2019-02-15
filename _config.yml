@@ -7,7 +7,7 @@ google_analytics:
 
 # SEO settings
 title: Blog
-description: A Front-End Web Developer for three years, Marc is currently in an on-going mentorship of becoming a data-driven developer studying AI and Machine Learning.
+description: Data-driven developer and open source enthusiast.
 url: "https://blog.marcreyes.ph"
 twitter_username: marcreyesph
 default_img: https://blog.marcreyes.ph/assets/images/og-image.png
@@ -15,13 +15,13 @@ default_img: https://blog.marcreyes.ph/assets/images/og-image.png
 # Profile settings
 name: Marc Anthony Reyes
 profile_img: /assets/images/about-small-colored.jpg
-profile: Marc is a Front-End Web Developer who is currently in an on-going mentorship of becoming a data-driven developer studying AI and Machine Learning. He already has talked in three developer conferences and seminars and believes in democratizing AI and sharing ideas to other developers.
+profile: Hi! My name is Marc and I'm a student developer from Cagayan de Oro, Philippines, and building interfaces and developing Machine Learning and AI applications for various causes are some of my skills as an up-and-coming developer. I'm also occasionally invited to speak at tech conferences to share my knowledge and experiences as a budding front end web developer-turned-data scientist.
 social:
   github: https://github.com/marcreyesph
   medium: https://becominghuman.ai/@marcreyesph
   twitter: https://twitter.com/marcreyesph
-  facebook: https://facebook.com/marcxplanet
-  google-plus: https://plus.google.com/+marcreyesph
+  facebook: https://www.facebook.com/marcxplanet
+  email: hello@marcreyes.ph
 
 
 # Build settings

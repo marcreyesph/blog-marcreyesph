@@ -5,6 +5,7 @@ categories:
   - Python
   - Web-Development
   - Tech-Events
+  - Django
 description: I love joining in hands-on coding workshops but it is my first time to join a workshop with mostly powerful women (who could turn coffee into code). Read this blog as I share my experience of developing web apps with Django and women who are redefining standards in the technology scene.  
 image: /assets/images/posts/body/django-girls1.jpg
 ---
