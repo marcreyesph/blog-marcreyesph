@@ -12,7 +12,7 @@ image: /assets/images/posts/django-girls-3.jpg
 
 On January 19, I was given the opportunity to coach for the third Django Girls Workshop in Cagayan de Oro. As an active supporter of women empowerment and #WomenInTech initiatives, I offered to volunteer and teach women and girls who are enthused in coding but has little to no knowledge in it. 
 
-Twenty girls from all over Mindanao—few of them were already knowledgeable in programming— were chosen to participate in the workshop. It was my second time joining an all-women event, and the first time to speak and coach in one. The experience was surreal, as I was really excited to teach basics in Python programming and introduce one of its common framework for web development—Django.
+Fifty-three (53) girls sign up all over Mindanao—few of them were already knowledgeable in programming— were chosen to participate in the workshop. It was my second time joining an all-women event, and the first time to speak and coach in one. The experience was surreal, as I was really excited to teach basics in Python programming and introduce one of its common framework for web development—Django.
 
 ![Third Django Girls CDO Workshop](/assets/images/posts/body/django-girls-3-4.jpg "Third Django Girls CDO Workshop")
 
