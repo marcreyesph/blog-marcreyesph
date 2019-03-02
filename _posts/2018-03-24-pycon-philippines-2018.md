@@ -64,4 +64,4 @@ Also, never forget to share the learnings or the things you have discovered and 
 
 Photos by **[Jessica Apostol](https://twitter.com/oheyjec), [Manoj Pandey](https://twitter.com/onlyrealmvp), [PyCon Philippines](https://twitter.com/pyconph), [Iqbal Abdullah](https://twitter.com/iqbalabd), [RK](https://twitter.com/rukku), [Matt Lebrun](https://twitter.com/cr8ivecodesmith), [Ghelo Tolentino](https://twitter.com/herrGheloBear)**
 
-If you're interested in building your own Machine Learning application but you still don't have any idea to make one, feel free to e-mail me at **[hello@marcreyes.ph](mailto:hello@marcreyes.ph)** so that I can give you the slides and the Jupyter Notebook of my lightning talk at PyCon Philippines 2018.
+If you're interested in building your own Machine Learning application but you still don't have any idea to make one, feel free to e-mail me at **[hello@marcrey.es](mailto:hello@marcrey.es)** so that I can give you the slides and the Jupyter Notebook of my lightning talk at PyCon Philippines 2018.
