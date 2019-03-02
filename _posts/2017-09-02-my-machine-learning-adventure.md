@@ -47,4 +47,4 @@ I want to share more of my Machine Learning adventure but I believe I'm still st
 
 ---
 
-Guys, I need your help. If anyone of you have Machine Learning books and other resources, as well as datasets to play with, feel free to send e-mail me at **[hello@marcreyes.ph](mailto:hello@marcreyes.ph)**. Thanks everyone for reading my blog.
+Guys, I need your help. If anyone of you have Machine Learning books and other resources, as well as datasets to play with, feel free to send e-mail me at **[hello@marcrey.es](mailto:hello@marcrey.es)**. Thanks everyone for reading my blog.

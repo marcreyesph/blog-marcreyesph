@@ -15,10 +15,10 @@ A status page contains specific details of the status of a website system whethe
 My status page is created using an open-source project, [Statuspage](https://github.com/jayfk/statuspage) by [Jannis Gebauer](https://github.com/jayfk). My status page includes five main site functionalities namely, API, Blog, CDN, Design, and Website. Below are the detailed descriptions of each functional units/systems of the site:
 
 * APIs - The application program interface (API) functional unit includes status of the APIs that were used and that are available in the website. Whenever there are incidents and maintenance work to be done, this section must display the specific issue that is currently investigated.
-* Blog - This functional unit is the system status of [this blog site](https://blog.marcreyes.ph). Whenever a problem or an issue arises and needs to be investigated, this section must display the specific issue that is currently investigated.
-* CDN - The content delivery network (CDN) functional unit includes status of the CDN that is used in this site. If some contents of the whole marcreyes.ph is not delivered to a specific geographic location or if there are maintenance work to be done, this section must display the specific issue that is currently investigated.
+* Blog - This functional unit is the system status of [this blog site](https://blog.marcrey.es). Whenever a problem or an issue arises and needs to be investigated, this section must display the specific issue that is currently investigated.
+* CDN - The content delivery network (CDN) functional unit includes status of the CDN that is used in this site. If some contents of the whole marcrey.es is not delivered to a specific geographic location or if there are maintenance work to be done, this section must display the specific issue that is currently investigated.
 * Design - This functional unit includes the design aspect of all websites of the system, specifically site responsiveness, content display of the website, as well as the interface implementation of the system. There will always be maintenance work in terms of design so this section must include the specific issue that is currently investigated.
-* Website - This functional unit is the status of the [main page site](https://www.marcreyes.ph). Most of the time, most of the content of the main page is maintained and if problem or an issue arises and needs to be investigated, this section must display the specific issue that is currently investigated. 
+* Website - This functional unit is the status of the [main page site](https://www.marcrey.es). Most of the time, most of the content of the main page is maintained and if problem or an issue arises and needs to be investigated, this section must display the specific issue that is currently investigated. 
 
 ![Status Incidents](/assets/images/posts/body/status-incident-thumbnail.jpg "Status Incidents")
 
@@ -26,4 +26,4 @@ On the status page, there is an Incident section. The incident section shows the
 
 ---
 
-You can check my status page by visiting **[status.marcreyes.ph](https://status.marcreyes.ph)**. For site and functional issues that you want to address and give us notice, please e-mail me at **[contact@marcreyes.ph](mailto:contact@marcreyes.ph)** and I'll be glad to respond to your request. Thank you very much!
+You can check my status page by visiting **[status.marcrey.es](https://status.marcrey.es)**. For site and functional issues that you want to address and give us notice, please e-mail me at **[contact@marcrey.es](mailto:contact@marcrey.es)** and I'll be glad to respond to your request. Thank you very much!
