@@ -17,11 +17,11 @@ Below is an overly simplified version of the service worker lifecycle on its fir
 
 ![Service Worker Lifecycle](/assets/images/posts/body/sw-lifecycle-thumbnail.jpg "Service Worker Lifecycle")
 
-My website [homepage](https://www.marcrey.es) now has a service worker. A snackbar notification will indicate whether or not the site caching was successfully achieved. Normally, service workers don't work on webpages that are not served over https so the secure homepage site is an advantage. Caching usually takes around 5-10 seconds to finish depending on the speed of your connection. Once done, turn off your internet connection and check whether the site still loads. Below is a sample of working and properly loaded portfolio content: 
+My website [homepage](https://www.marcreyes.ph) now has a service worker. A snackbar notification will indicate whether or not the site caching was successfully achieved. Normally, service workers don't work on webpages that are not served over https so the secure homepage site is an advantage. Caching usually takes around 5-10 seconds to finish depending on the speed of your connection. Once done, turn off your internet connection and check whether the site still loads. Below is a sample of working and properly loaded portfolio content: 
 
 ![Sample Service Worker Lifecycle](/assets/images/posts/body/sw-working-thumbnail.jpg "Sample Service Worker Lifecycle")
 
-You may also have the option to save it on your phone home screen like a native app. Yes, it works! Service workers will be added to all marcrey.es webpages, soon. 
+You may also have the option to save it on your phone home screen like a native app. Yes, it works! Service workers will be added to all marcreyes.ph webpages, soon. 
 
 ---
 

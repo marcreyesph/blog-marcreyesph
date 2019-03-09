@@ -70,4 +70,4 @@ I believe this is just the start of something big and I know you can, too&mdash;
 
 ---
 
-If you're interested in building your own Machine Learning application but you still don't have any idea to make one, feel free to e-mail me at **[hello@marcrey.es](mailto:hello@marcrey.es)** so that I can give you the slides and the Jupyter Notebook of my demo at GDGCDO DevFest 2017. Photos courtesy of **[GDG Cagayan de Oro](https://www.facebook.com/gdgcdo)** and **[Lance Bretana](https://plus.google.com/110120994189360187048)**.
+If you're interested in building your own Machine Learning application but you still don't have any idea to make one, feel free to e-mail me at **[hello@marcreyes.ph](mailto:hello@marcreyes.ph)** so that I can give you the slides and the Jupyter Notebook of my demo at GDGCDO DevFest 2017. Photos courtesy of **[GDG Cagayan de Oro](https://www.facebook.com/gdgcdo)** and **[Lance Bretana](https://plus.google.com/110120994189360187048)**.
