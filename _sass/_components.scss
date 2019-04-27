@@ -87,6 +87,7 @@
     background-color: $color-alpha--light;
 
     .preview__more {
+      font-weight: bold;
       box-shadow: inset 175px 0 0 0 $color-alpha;
       color: $color-white;
     }
@@ -128,6 +129,7 @@
   }
 
   &__more {
+    font-weight: bold;
     @include button-slide();
   }
 }
@@ -441,8 +443,9 @@
   }
 
   p:first-child {
-    font-family: $font-mono;
-    font-size: 1.25em;
+    font-family: $font-header;
+    font-weight: bold;
+    font-size: 1.5em;
   }
 
   a {

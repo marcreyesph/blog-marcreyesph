@@ -14,13 +14,13 @@
 
 @-moz-document url-prefix() {
   body {
-    font-weight: lighter !important;
+    font-weight: normal !important;
   }
 }
 
-$font-header: 'Circular-Pro-Black', Helvetica, sans-serif;
-$font-body: 'Circular-Pro-Medium', Helvetica, sans-serif;
-$font-post: 'Circular-Pro-Book', Helvetica, sans-serif;
+$font-header: 'Gordita', Helvetica, sans-serif;
+$font-body: 'Gordita', Helvetica, sans-serif;
+$font-post: 'Gordita', Helvetica, sans-serif;
 $font-mono: 'Replica-Mono', monospace;
 
 $color-alpha: #9f8f68;
@@ -76,10 +76,10 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: lighter;
+  font-weight: bold;
   margin: 0;
   font-family: $font-header;
-  line-height: 1.1;
+  line-height: 1.2;
   text-rendering: geometricPrecision !important;
   -moz-font-smoothing: antialiased !important;
   -moz-osx-font-smoothing: grayscale !important;
@@ -142,9 +142,11 @@ figure {
 }
 
 img {
+  filter: grayscale(100);
   display: block;
   width: 100%;
   max-width: 100%;
+  box-shadow: 0 1px 2px rgba(10,10,10,0.1), 0 1px 2px rgba(10,10,10,0.2);
 }
 
 blockquote {
