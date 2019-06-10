@@ -17,10 +17,10 @@ name: Marc Anthony Reyes
 profile_img: /assets/images/about-small-colored.jpg
 profile: Hi! My name is Marc and I'm a student developer from Cagayan de Oro, Philippines, and building interfaces and developing Machine Learning and AI applications for various causes are some of my skills as an up-and-coming developer. I'm also occasionally invited to speak at tech conferences to share my knowledge and experiences as a budding front end web developer-turned-data scientist.
 social:
-  github: https://github.com/marcreyesph
-  medium: https://becominghuman.ai/@marcreyesph
-  twitter: https://twitter.com/marcreyesph
-  facebook: https://www.facebook.com/marcxplanet
+  facebook: https://www.facebook.com/marcxplanet/
+  twitter: https://twitter.com/marcreyesph/
+  github: https://github.com/marcreyesph/
+  linkedin: https://ph.linkedin.com/in/marcreyesph/
   email: hello@marcreyes.ph
 
 
@@ -34,4 +34,4 @@ sass:
   style: compressed
 
 # Gems
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+plugins: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]

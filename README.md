@@ -1,4 +1,4 @@
-[![Travis CI Build Status](https://travis-ci.org/marcreyesph/blog-marcreyesph.svg?branch=master)](https://travis-ci.org/marcreyesph/blog-marcreyesph "Travis CI Build Status") [![CircleCI Build Status](https://circleci.com/gh/marcreyesph/blog-marcreyesph.svg?style=svg "CircleCI Build Status")](https://circleci.com/gh/marcreyesph/blog-marcreyesph)
+[![CircleCI Build Status](https://circleci.com/gh/marcreyesph/blog-marcreyesph.svg?style=svg "CircleCI Build Status")](https://circleci.com/gh/marcreyesph/blog-marcreyesph) [![Netlify Status](https://api.netlify.com/api/v1/badges/91a26036-7860-49fd-950d-11441dc63766/deploy-status)](https://app.netlify.com/sites/blog-marcreyesph/deploys)
 
 # Marc Reyes Blog
 
