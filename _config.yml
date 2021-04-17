@@ -1,5 +1,5 @@
 # Site settings
-email: info@marcreyes.ph
+email: hello@marcreyes.ph
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
@@ -7,7 +7,7 @@ google_analytics:
 
 # SEO settings
 title: Blog
-description: Data-driven developer and open source enthusiast.
+description: I'm Marc, a Software Engineer from the Philippines. I build software, automate processes, an make data-driven decisions. Currently working at GCash as a Machine Learning Engineer.
 url: "https://blog.marcreyes.ph"
 twitter_username: marcreyesph
 default_img: https://blog.marcreyes.ph/assets/images/og-image.png
@@ -15,14 +15,22 @@ default_img: https://blog.marcreyes.ph/assets/images/og-image.png
 # Profile settings
 name: Marc Anthony Reyes
 profile_img: /assets/images/about-small-colored.jpg
-profile: Hi! My name is Marc and I'm a student developer from Cagayan de Oro, Philippines, and building interfaces and developing Machine Learning and AI applications for various causes are some of my skills as an up-and-coming developer. I'm also occasionally invited to speak at tech conferences to share my knowledge and experiences as a budding front end web developer-turned-data scientist.
+profile: I'm Marc, a Software Engineer from the Philippines. I build software, automate processes, an make data-driven decisions. Currently working at GCash as a Machine Learning Engineer.
 social:
   facebook: https://www.facebook.com/marcxplanet/
   twitter: https://twitter.com/marcreyesph/
   github: https://github.com/marcreyesph/
   linkedin: https://ph.linkedin.com/in/marcreyesph/
-  email: info@marcreyes.ph
+  email: hello@marcreyes.ph
 
+compress_html:
+  clippings: all
+  comments: [""]
+  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+  profile: false
+  blanklines: false
+  ignore:
+    envs: []
 
 # Build settings
 exclude:

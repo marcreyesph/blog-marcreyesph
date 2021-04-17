@@ -42,4 +42,4 @@ Just recently, our project was granted a Category A funding which means that we 
 
 ---
 
-The project is still on-going and I would love to know what you think about our project. Feel free to send me an e-mail at **[info@marcreyes.ph](mailto:info@marcreyes.ph)**. I’d be very happy the read them. You may also visit Tanumbotics' website by visiting **[tanumbotics.github.io](https://tanumbotics.github.io)**.
+The project is still on-going and I would love to know what you think about our project. Feel free to send me an e-mail at **[hello@marcreyes.ph](mailto:hello@marcreyes.ph)**. I’d be very happy the read them. You may also visit Tanumbotics' website by visiting **[tanumbotics.github.io](https://tanumbotics.github.io)**.

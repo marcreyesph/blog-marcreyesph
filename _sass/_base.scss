@@ -20,18 +20,18 @@ html {
     }
 }
 
-$font-header: 'Titling Gothic FB',
+$font-header: 'Circular',
 Helvetica,
 sans-serif;
-$font-body: 'Titling Gothic FB',
+$font-body: 'Circular',
 Helvetica,
 sans-serif;
-$font-post: 'Titling Gothic FB',
+$font-post: 'Circular',
 Helvetica,
 sans-serif;
-$font-mono: 'Titling Gothic FB',
+$font-mono: 'Circular',
 monospace;
-$color-alpha: #3a539b;
+$color-alpha: #0d6efd;
 
 /*#9f8f68*/
 
@@ -90,7 +90,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-weight: bold;
+    font-weight: 700;
     margin: 0;
     font-family: $font-header;
     line-height: 1.2;
