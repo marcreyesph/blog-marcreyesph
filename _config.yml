@@ -7,7 +7,7 @@ google_analytics:
 
 # SEO settings
 title: Blog
-description: I'm Marc, a Software Engineer from the Philippines. I build software, automate processes, an make data-driven decisions. Currently working at GCash as a Machine Learning Engineer.
+description: I'm Marc, a Software Engineer from the Philippines. I build software, automate processes, and make data-driven decisions. Currently working at GCash as a Machine Learning Engineer.
 url: "https://blog.marcreyes.ph"
 twitter_username: marcreyesph
 default_img: https://blog.marcreyes.ph/assets/images/og-image.png
@@ -15,7 +15,7 @@ default_img: https://blog.marcreyes.ph/assets/images/og-image.png
 # Profile settings
 name: Marc Anthony Reyes
 profile_img: /assets/images/about-small-colored.jpg
-profile: I'm Marc, a Software Engineer from the Philippines. I build software, automate processes, an make data-driven decisions. Currently working at GCash as a Machine Learning Engineer.
+profile: I'm Marc, a Software Engineer from the Philippines. I build software, automate processes, and make data-driven decisions. Currently working at GCash as a Machine Learning Engineer.
 social:
   facebook: https://www.facebook.com/marcxplanet/
   twitter: https://twitter.com/marcreyesph/
