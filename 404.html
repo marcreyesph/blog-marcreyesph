@@ -1,0 +1,25 @@
+--- 
+layout: default 
+title: Page Not Found 
+description: The page you requested is unavailable. 
+permalink: /404.html 
+---
+<section class="archives" itemscope itemtype="http://schema.org/Blog">
+    <a class="nav nav--black" href="{{ site.baseurl }}/">
+        <i class="fa fa-lg fa-arrow-left"></i>
+        <span>Home</span>
+    </a>
+    <header class="archives__header">
+        <span>Not Found</span>
+    </header>
+    <div class="section-padding archives__container">
+        <article class="card" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
+            <div class="card__container">
+                <h2 class="card__header" itemprop="name">{{ page.title }}</h2>
+                <p class="card__count" itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}">
+                    The page you requested is unavailable. If you think this is a mistake, send an error report to <strong><a href="mailto:webadmin@marcreyes.ph?subject=Site Error Report (marcreyes.ph)">webadmin@marcreyes.ph</a></strong>.
+                </p>
+            </div>
+        </article>
+    </div>
+</section>
